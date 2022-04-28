@@ -19,3 +19,7 @@ This weather daskboard app is mobile compatible.
 
 
 MOCK UP
+
+
+
+![image](https://user-images.githubusercontent.com/101309301/165865053-97885305-14b1-4594-a8df-2610cb08746b.png)
